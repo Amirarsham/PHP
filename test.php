@@ -7,7 +7,7 @@
 
 <body>
 <?php
-echo "Hello iran";
+echo "Hello, im an iranian starter";
 ?>
 </body>
 </html>
